@@ -28,4 +28,4 @@ Párrafo con palabras en **negrita** y *cursiva*, también con `codigo`
 | Syntax | Description |
 | ----------- | ----------- |
 | Real | Madrid |
-| Mejor | Equipo |
+| DelMundo | Equipo |
